@@ -1,0 +1,101 @@
+Click,Swipe,Scroll,Input,Timestamps,Trip Type,Screen Time(min),Device Info,OS,App Version,Customer ID
+3,1,1,2,2024-03-15 00:44:48.272613,single feature journey,3,OnePlus 10 Pro,Android,['6.0.04'],9054864386
+10,7,2,5,2024-03-15 01:26:23.880669,entertainment journey,10,Nokia 8,Android,['7.0.03'],7104043987
+4,1,1,2,2024-03-15 01:54:45.197159,single feature journey,5,LG V series ,Android,['6.0.11'],7546553466
+3,1,2,2,2024-03-15 01:56:57.718881,single feature journey,5,Moto X series,Android,['7.0.57'],9227021520
+10,5,4,4,2024-03-15 02:12:38.964197,mixed usage,8,iPhone 8,IOS,['7.0.60'],9662241266
+13,5,3,10,2024-03-15 02:36:29.360387,entertainment journey,12,OnePlus 5/5T,Android,['7.0.60'],7659416078
+9,5,5,2,2024-03-15 02:40:48.550538,shopping journey,13,LG G series,Android,['7.0.47'],9683031855
+16,13,10,8,2024-03-15 03:29:06.410678,long exploration journey,29,LG Q series,Android,['7.0.25'],9344162446
+15,12,8,7,2024-03-15 03:39:59.361030,long exploration journey,30,Sony Xperia series,Android,['7.0.57'],9136524607
+7,4,2,2,2024-03-15 03:44:21.704252,shopping journey,12,Nova series,Android,['7.0.25'],7497739056
+8,3,2,5,2024-03-15 05:48:34.519970,mixed usage,8,Pixel 5,Android,['6.0.48'],9945624560
+5,5,4,3,2024-03-15 06:51:48.528726,shopping journey,14,iPhone 5,IOS,['7.0.57'],7717915113
+5,4,5,5,2024-03-15 07:14:31.994522,news consumption journey,9,Galaxy A series,Android,['7.0.60'],7791381667
+5,3,5,3,2024-03-15 08:04:46.438828,news consumption journey,7,Pixel 5,Android,['7.0.47'],7771353408
+5,2,2,2,2024-03-15 08:39:14.059005,single feature journey,2,LG G series,Android,['7.0.57'],9482202224
+7,4,4,5,2024-03-15 08:47:07.126627,mixed usage,19,OnePlus 9/9 Pro,Android,['6.0.48'],9706252626
+11,10,3,9,2024-03-15 10:31:29.233393,entertainment journey,13,Galaxy S22,Android,['7.0.57'],7275041378
+17,14,9,5,2024-03-15 10:45:02.703156,long exploration journey,25,OnePlus 5/5T,Android,['6.0.48'],9480036390
+10,4,5,2,2024-03-15 10:47:14.367232,mixed usage,14,Nokia XR21,Android,['6.0.04'],9095122102
+18,12,6,8,2024-03-15 10:51:57.714718,long exploration journey,30,OnePlus 12,Android,['7.0.57'],7083733040
+16,15,9,6,2024-03-15 11:03:51.900087,long exploration journey,26,iPhone 6S Plus,IOS,['7.0.03'],8504882980
+11,10,2,9,2024-03-15 11:09:21.915572,entertainment journey,18,Pixel 2 XL,Android,['7.0.47'],7560163642
+4,2,1,1,2024-03-15 11:11:21.712222,single feature journey,7,Pixel 4a 5G,Android,['7.0.57'],8651790661
+20,13,8,8,2024-03-15 12:12:30.400182,long exploration journey,29,OnePlus 12,Android,['7.0.47'],9932549804
+4,4,2,4,2024-03-15 13:40:07.626762,news consumption journey,7,iPhone 5C,IOS,['7.0.25'],9521284045
+19,10,7,9,2024-03-15 13:45:06.105000,long exploration journey,27,Galaxy S24,Android,['7.0.01'],8379404407
+17,11,5,5,2024-03-15 13:50:38.764497,long exploration journey,29,OnePlus 10 Pro,Android,['7.0.57'],7172614331
+4,1,2,1,2024-03-15 13:51:32.043474,single feature journey,5,Honor series,Android,['7.0.01'],7976929355
+5,4,5,2,2024-03-15 14:36:36.092015,mixed usage,14,Pixel 2 XL,Android,['7.0.03'],7602467582
+7,4,3,3,2024-03-15 14:40:41.811215,mixed usage,16,Nokia G42 5G,Android,['7.0.47'],7174014728
+19,13,6,7,2024-03-15 14:46:56.369962,long exploration journey,25,Pixel 2,Android,['7.0.57'],8813935268
+4,1,2,1,2024-03-15 15:00:05.289890,single feature journey,9,Galaxy Note10,Android,['7.0.01'],9635476016
+15,14,10,6,2024-03-15 15:31:03.953851,long exploration journey,29,OnePlus 10,Android,['7.0.01'],7942102426
+15,12,9,9,2024-03-15 15:49:51.009237,long exploration journey,30,Galaxy S22,Android,['7.0.60'],9949408346
+18,15,5,5,2024-03-15 16:02:32.325266,long exploration journey,27,iPhone 14 Pro,IOS,['7.0.60'],7231032428
+4,3,5,4,2024-03-15 16:04:55.729774,news consumption journey,9,Mate series,Android,['7.0.60'],8751338000
+5,1,1,2,2024-03-15 16:05:23.601186,simple recharge journey,3,iPhone SE (2nd generation),IOS,['7.0.60'],7759532752
+17,11,8,5,2024-03-15 16:08:46.805062,long exploration journey,26,OnePlus 5/5T,Android,['7.0.01'],7553283594
+17,13,6,8,2024-03-15 16:17:29.256748,long exploration journey,27,Galaxy Note20,Android,['7.0.47'],9873105964
+4,2,2,2,2024-03-15 16:20:23.066127,news consumption journey,7,Lenovo Z series,Android,['7.0.57'],9591830289
+13,9,5,7,2024-03-15 16:35:45.508991,entertainment journey,17,Galaxy S23,Android,['7.0.60'],7864249599
+5,1,2,2,2024-03-15 16:37:16.637418,single feature journey,5,Pixel 7 Pro,Android,['7.0.57'],7702267093
+5,3,5,5,2024-03-15 16:44:51.094690,news consumption journey,8,Pixel 3a,Android,['7.0.57'],8640605584
+4,1,1,2,2024-03-15 16:48:53.926548,simple recharge journey,1,Pixel 7 Pro,Android,['7.0.60'],7892435583
+5,3,5,2,2024-03-15 16:52:41.096107,news consumption journey,5,OnePlus One,Android,['7.0.60'],7158360177
+6,4,2,2,2024-03-15 17:03:23.563312,mixed usage,10,iPhone SE (2nd generation),IOS,['7.0.57'],9991980134
+8,4,3,4,2024-03-15 17:13:23.880437,mixed usage,20,Nokia 8,Android,['7.0.01'],8304265501
+15,12,8,8,2024-03-15 17:17:58.101846,long exploration journey,28,Pixel 3a XL,Android,['7.0.57'],8860152911
+11,5,4,9,2024-03-15 17:24:52.638165,entertainment journey,14,Galaxy S6,Android,['7.0.60'],8732766893
+7,3,2,4,2024-03-15 17:37:14.506982,mixed usage,19,Galaxy Note10,Android,['7.0.25'],9314365976
+12,7,5,10,2024-03-15 17:37:59.333011,entertainment journey,20,iPhone 14,IOS,['7.0.57'],9124335116
+8,2,2,2,2024-03-15 18:11:03.661931,shopping journey,10,Galaxy S9,Android,['7.0.25'],9757587886
+4,2,1,2,2024-03-15 18:11:51.298792,single feature journey,5,Pixel 4 XL,Android,['7.0.25'],9073744198
+4,1,1,2,2024-03-15 18:14:13.664816,single feature journey,5,OnePlus 3/3T,Android,['7.0.57'],8472936048
+5,5,5,5,2024-03-15 18:27:38.541400,news consumption journey,7,Moto G series,Android,['7.0.03'],9785827030
+5,5,2,2,2024-03-15 18:34:28.627095,shopping journey,10,Poco series,Android,['7.0.60'],8428188258
+4,1,1,1,2024-03-15 18:40:38.334806,single feature journey,6,Pixel 6,Android,['7.0.25'],8376593183
+19,11,6,9,2024-03-15 19:06:50.942464,long exploration journey,30,iPhone XS,IOS,['7.0.03'],8750552175
+13,6,4,6,2024-03-15 19:09:04.055626,entertainment journey,18,Nokia G42 5G,Android,['7.0.57'],7917790865
+6,3,5,3,2024-03-15 19:09:55.462925,shopping journey,15,OnePlus 10,Android,['7.0.25'],9460934676
+3,4,4,3,2024-03-15 19:21:57.107691,news consumption journey,8,iPhone 14 Pro,IOS,['7.0.57'],9346457893
+3,2,1,1,2024-03-15 19:22:20.407407,single feature journey,7,LG Q series,Android,['7.0.60'],7158340555
+19,13,7,6,2024-03-15 19:23:01.955543,long exploration journey,28,Galaxy S20,Android,['7.0.01'],7365491207
+3,2,5,3,2024-03-15 19:24:13.501871,news consumption journey,7,OnePlus 7/7 Pro/7T/7T Pro,Android,['7.0.57'],7988084699
+3,1,2,1,2024-03-15 19:26:31.738781,single feature journey,5,Galaxy S8,Android,['7.0.47'],9309863227
+5,5,3,4,2024-03-15 19:27:04.912805,news consumption journey,7,Galaxy S10,Android,['7.0.03'],7949764232
+4,1,1,2,2024-03-15 19:31:39.251680,single feature journey,7,Galaxy S6,Android,['7.0.57'],9244572757
+5,2,1,1,2024-03-15 19:32:58.437398,single feature journey,2,Motorola Moto series,Android,['5.0.28'],9358850799
+4,2,1,2,2024-03-15 19:41:31.019316,single feature journey,5,Pixel 7 Pro,Android,['7.0.57'],8945090377
+18,15,10,9,2024-03-15 19:44:34.165269,long exploration journey,26,Galaxy S6,Android,['7.0.03'],7547697711
+4,5,5,3,2024-03-15 19:51:37.031643,news consumption journey,5,Nokia XR21,Android,['7.0.03'],8468981954
+5,5,3,4,2024-03-15 19:56:40.013750,mixed usage,15,Galaxy S24,Android,['5.0.28'],7664292897
+7,3,3,4,2024-03-15 20:07:42.310332,shopping journey,12,Galaxy S10,Android,['7.0.47'],7286631022
+3,4,4,3,2024-03-15 20:08:43.280518,news consumption journey,9,Galaxy Note8,Android,['7.0.47'],9786049958
+5,2,2,1,2024-03-15 20:09:28.469626,single feature journey,3,Honor series,Android,['7.0.25'],9992219584
+7,5,3,4,2024-03-15 20:12:08.838071,mixed usage,9,HTC One series,Android,['7.0.60'],9853045614
+4,2,1,1,2024-03-15 20:12:17.788577,single feature journey,2,Nokia 5,Android,['7.0.57'],8232441087
+16,11,10,5,2024-03-15 20:18:37.784679,long exploration journey,25,Galaxy S7,Android,['7.0.47'],8888454776
+5,2,0,1,2024-03-15 20:18:51.677046,simple recharge journey,3,OnePlus 10,Android,['7.0.60'],9466686848
+4,2,1,2,2024-03-15 20:22:41.873015,single feature journey,3,iPhone 14 plus,IOS,['7.0.47'],8463816872
+12,9,3,6,2024-03-15 20:26:29.458158,entertainment journey,12,Moto G series,Android,['6.0.11'],8162330453
+3,1,1,1,2024-03-15 20:26:33.566737,simple recharge journey,2,Pixel 6 Pro,Android,['6.0.04'],9731617199
+19,14,10,5,2024-03-15 20:26:51.865495,long exploration journey,29,Galaxy S7,Android,['7.0.25'],7248074188
+10,2,4,2,2024-03-15 20:27:49.676354,mixed usage,17,Pixel 3a,Android,['7.0.25'],9794672714
+9,2,3,4,2024-03-15 20:28:56.214038,mixed usage,15,Galaxy S10,Android,['7.0.03'],9695133075
+15,14,10,8,2024-03-15 20:47:53.423529,long exploration journey,26,Pixel 6,Android,['7.0.25'],7041775068
+4,4,3,3,2024-03-15 20:48:28.566012,news consumption journey,6,Galaxy S7,Android,['7.0.60'],8344151185
+4,2,2,2,2024-03-15 21:09:00.952365,single feature journey,10,Nokia 7,Android,['7.0.47'],9844886749
+5,2,1,2,2024-03-15 21:24:21.796746,single feature journey,10,iPhone 7 Plus,IOS,['7.0.25'],9372703351
+5,5,2,4,2024-03-15 21:25:16.684391,news consumption journey,8,OnePlus 9/9 Pro,Android,['7.0.47'],8646147756
+5,3,2,5,2024-03-15 21:35:12.739534,news consumption journey,7,Galaxy S6,Android,['7.0.25'],8893419537
+4,3,4,4,2024-03-15 21:43:33.358360,news consumption journey,9,Pixel 5,Android,['6.0.48'],7235597237
+17,14,9,7,2024-03-15 21:45:34.618046,long exploration journey,25,iPhone 11 Pro Max,IOS,['5.0.28'],7851096288
+3,1,1,1,2024-03-15 22:04:08.082721,single feature journey,2,Galaxy Note5,Android,['7.0.47'],8071147012
+10,5,4,5,2024-03-15 22:32:18.781876,mixed usage,17,Lenovo Z series,Android,['7.0.57'],8574452548
+13,8,5,8,2024-03-15 23:03:33.222281,entertainment journey,16,Galaxy S22,Android,['7.0.57'],9847181388
+18,15,5,8,2024-03-15 23:07:05.137528,long exploration journey,30,OnePlus 10,Android,['7.0.25'],8841015670
+4,2,1,2,2024-03-15 23:10:28.061611,single feature journey,5,OnePlus 7/7 Pro/7T/7T Pro,Android,['6.0.48'],7575827365
+16,15,5,9,2024-03-15 23:21:11.686424,long exploration journey,27,LG G series,Android,['7.0.47'],7874675152
+4,2,1,2,2024-03-15 23:30:37.993816,single feature journey,4,Pixel 7,Android,['6.0.48'],7658311980

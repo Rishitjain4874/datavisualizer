@@ -1,0 +1,101 @@
+Click,Swipe,Scroll,Input,Timestamps,Trip Type,Screen Time(min),Device Info,OS,App Version,Customer ID
+15,15,9,7,2024-03-15 00:18:00.308677,long exploration journey,29,Galaxy S24,Android,['7.0.57'],+91 8076196879
+3,2,2,1,2024-03-15 00:19:18.971655,single feature journey,5,OnePlus 6/6T,Android,['7.0.57'],+91 7121065625
+18,15,8,10,2024-03-15 00:31:38.998264,long exploration journey,27,Galaxy Note8,Android,['6.0.48'],+91 8670695274
+5,2,1,2,2024-03-15 01:00:50.829706,single feature journey,3,OnePlus 5/5T,Android,['7.0.25'],+91 7187547370
+5,2,3,4,2024-03-15 02:03:07.503698,news consumption journey,8,Pixel 7,Android,['7.0.60'],+91 7117856640
+10,2,5,4,2024-03-15 02:03:46.070394,shopping journey,11,iPhone SE (2nd generation),IOS,['7.0.57'],+91 7749578060
+5,2,1,1,2024-03-15 02:06:06.578011,simple recharge journey,2,Mate series,Android,['7.0.47'],+91 7154555541
+6,4,3,3,2024-03-15 02:07:41.523100,mixed usage,6,LG V series ,Android,['6.0.11'],+91 8989219117
+5,1,0,2,2024-03-15 02:32:56.300332,simple recharge journey,2,Pixel 3a XL,Android,['7.0.57'],+91 7848775179
+6,4,3,5,2024-03-15 03:57:28.443947,shopping journey,14,Sony Xperia series,Android,['7.0.57'],+91 8146132032
+5,2,4,3,2024-03-15 04:33:41.733265,news consumption journey,5,Galaxy Note9,Android,['7.0.03'],+91 8679551270
+7,2,3,3,2024-03-15 05:56:34.125339,shopping journey,12,HTC Desire series,Android,['7.0.57'],+91 9662305171
+8,4,3,3,2024-03-15 07:02:29.286063,shopping journey,14,Galaxy S7,Android,['7.0.57'],+91 7719368963
+5,4,4,2,2024-03-15 07:07:54.997854,news consumption journey,9,Pixel 8,Android,['7.0.01'],+91 9660975730
+5,5,5,5,2024-03-15 07:10:54.132913,mixed usage,14,HTC Desire series,Android,['7.0.01'],+91 9980044362
+3,2,2,1,2024-03-15 08:00:54.959001,single feature journey,6,Lenovo K series,Android,['7.0.60'],+91 7354384452
+5,2,2,2,2024-03-15 08:09:54.083470,single feature journey,4,iPhone XS,IOS,['7.0.60'],+91 9295562950
+3,2,3,5,2024-03-15 08:38:14.076833,news consumption journey,9,Galaxy Note9,Android,['7.0.25'],+91 8487906463
+16,14,10,9,2024-03-15 08:50:25.298742,long exploration journey,28,LG Q series,Android,['6.0.48'],+91 9408374000
+20,14,8,10,2024-03-15 09:34:24.975117,long exploration journey,30,iPhone 12,IOS,['6.0.48'],+91 7030762774
+5,5,4,3,2024-03-15 10:50:55.040745,shopping journey,15,OnePlus 6/6T,Android,['7.0.03'],+91 9753442964
+18,10,7,7,2024-03-15 11:22:17.004952,long exploration journey,26,Asus ZenFone series,Android,['7.0.25'],+91 9542823279
+5,1,1,2,2024-03-15 11:36:13.407438,single feature journey,7,Asus ZenFone series,Android,['7.0.01'],+91 7064470102
+6,4,3,4,2024-03-15 13:05:04.527282,mixed usage,20,OnePlus 10,Android,['7.0.47'],+91 9072604818
+14,5,3,9,2024-03-15 13:08:41.773246,entertainment journey,10,Pixel,Android,['7.0.01'],+91 7309105920
+3,1,2,2,2024-03-15 13:35:14.019711,single feature journey,5,Galaxy S20,Android,['7.0.47'],+91 9850014493
+5,3,5,5,2024-03-15 14:35:45.123405,shopping journey,10,Pixel 5,Android,['7.0.03'],+91 8060117808
+16,15,10,10,2024-03-15 14:57:18.719468,long exploration journey,26,Pixel 2,Android,['6.0.48'],+91 9266045752
+5,2,1,2,2024-03-15 14:58:59.016865,single feature journey,6,Motorola Moto series,Android,['7.0.01'],+91 7415979590
+5,5,3,4,2024-03-15 15:07:08.321318,shopping journey,13,Motorola Moto series,Android,['7.0.57'],+91 7111103159
+4,4,3,4,2024-03-15 15:11:07.437323,news consumption journey,9,Pixel 7,Android,['7.0.47'],+91 8054315884
+5,5,2,5,2024-03-15 15:18:25.371355,mixed usage,13,Pixel XL,Android,['7.0.60'],+91 9653126703
+3,2,2,1,2024-03-15 15:40:26.607438,single feature journey,2,Moto Z series,Android,['7.0.25'],+91 9979749976
+3,2,1,2,2024-03-15 16:01:05.042575,single feature journey,5,LG Q series,Android,['6.0.11'],+91 8557620789
+4,2,0,2,2024-03-15 16:08:23.159651,simple recharge journey,3,Nokia XR21,Android,['7.0.25'],+91 9692161298
+10,3,2,4,2024-03-15 16:09:59.080265,shopping journey,14,Pixel 7,Android,['6.0.11'],+91 8358323774
+3,2,2,2,2024-03-15 16:26:19.015613,single feature journey,3,Galaxy M series,Android,['7.0.25'],+91 7146039656
+15,7,2,6,2024-03-15 16:28:39.154444,entertainment journey,15,Galaxy S6,Android,['7.0.03'],+91 8543927232
+7,4,2,5,2024-03-15 16:34:16.407686,mixed usage,9,OnePlus One,Android,['7.0.60'],+91 9092783782
+8,5,5,2,2024-03-15 16:38:14.821841,shopping journey,10,Galaxy S8,Android,['7.0.25'],+91 7526829163
+3,1,2,2,2024-03-15 17:04:28.089287,single feature journey,10,Pixel 3a,Android,['5.0.28'],+91 8504577369
+9,3,5,4,2024-03-15 17:04:33.741135,mixed usage,13,Honor series,Android,['7.0.01'],+91 7353253275
+14,8,4,7,2024-03-15 17:46:50.489557,entertainment journey,13,Galaxy S7,Android,['7.0.57'],+91 7520415494
+10,5,2,2,2024-03-15 17:51:53.674749,mixed usage,17,Moto Z series,Android,['7.0.60'],+91 7196454807
+17,13,6,7,2024-03-15 17:56:43.998072,long exploration journey,25,Pixel 4 XL,Android,['7.0.60'],+91 9344391549
+3,1,1,2,2024-03-15 18:04:16.139395,single feature journey,7,iPhone 13,IOS,['5.0.28'],+91 8767030576
+15,15,5,9,2024-03-15 18:08:46.637701,long exploration journey,28,Pixel 6 Pro,Android,['7.0.01'],+91 7689532136
+19,14,8,8,2024-03-15 18:26:04.534079,long exploration journey,29,Pixel 8,Android,['7.0.60'],+91 8802306028
+3,2,1,1,2024-03-15 18:28:27.367142,single feature journey,3,Nokia XR21,Android,['7.0.47'],+91 9171411489
+5,4,2,5,2024-03-15 18:29:33.342371,news consumption journey,8,iPhone 8,IOS,['7.0.57'],+91 9851529295
+4,2,1,1,2024-03-15 18:33:00.952708,simple recharge journey,1,iPhone 5,IOS,['7.0.57'],+91 8279956490
+15,15,6,5,2024-03-15 18:39:11.526007,long exploration journey,30,iPhone 5,IOS,['7.0.03'],+91 7075944629
+19,13,10,10,2024-03-15 18:44:55.280225,long exploration journey,30,Nokia G42 5G,Android,['6.0.48'],+91 8206242452
+3,4,5,4,2024-03-15 18:48:29.869784,news consumption journey,7,OnePlus 9/9 Pro,Android,['7.0.60'],+91 8425704353
+4,2,1,1,2024-03-15 19:03:43.153932,single feature journey,4,Galaxy S7,Android,['7.0.47'],+91 8560866176
+17,14,9,10,2024-03-15 19:11:48.964493,long exploration journey,26,Nokia 5,Android,['7.0.25'],+91 8615339739
+10,5,3,4,2024-03-15 19:15:01.705465,mixed usage,19,Pixel,Android,['7.0.60'],+91 8225057777
+9,4,4,2,2024-03-15 19:16:16.992639,shopping journey,15,OnePlus 2,Android,['5.0.28'],+91 7931049415
+4,5,4,5,2024-03-15 19:20:23.118016,news consumption journey,10,Pixel 4,Android,['6.0.48'],+91 7809595682
+4,1,0,1,2024-03-15 19:25:27.989003,simple recharge journey,2,Lenovo Z series,Android,['7.0.57'],+91 8701378725
+15,14,10,10,2024-03-15 19:30:32.657530,long exploration journey,30,iPhone 5S,IOS,['7.0.47'],+91 7850905818
+20,10,9,8,2024-03-15 19:32:56.572919,long exploration journey,27,Moto Z series,Android,['7.0.57'],+91 8593080699
+3,2,3,3,2024-03-15 19:36:39.456387,news consumption journey,9,iPhone 12 Pro Max,IOS,['7.0.57'],+91 8459972409
+13,7,5,6,2024-03-15 19:43:28.808932,entertainment journey,20,Nokia 6,Android,['7.0.60'],+91 8284405327
+4,4,5,5,2024-03-15 19:47:57.045607,news consumption journey,8,Redmi series,Android,['6.0.11'],+91 7011573358
+5,1,2,2,2024-03-15 19:52:39.308082,single feature journey,10,OnePlus 10,Android,['5.0.28'],+91 8692002282
+20,11,5,9,2024-03-15 19:56:49.775417,long exploration journey,30,Galaxy A series,Android,['7.0.57'],+91 9869541284
+3,1,2,1,2024-03-15 19:57:19.803303,single feature journey,2,Pixel 2 XL,Android,['7.0.60'],+91 8591948086
+10,3,3,4,2024-03-15 19:57:34.074441,mixed usage,8,Pixel 2 XL,Android,['6.0.48'],+91 7483637114
+18,10,8,8,2024-03-15 19:57:47.577591,long exploration journey,27,iPhone XR,IOS,['7.0.57'],+91 9899437480
+9,3,4,3,2024-03-15 20:04:25.302997,mixed usage,6,OnePlus 10 Pro,Android,['7.0.25'],+91 9301188790
+19,14,6,8,2024-03-15 20:08:56.521441,long exploration journey,30,iPhone 14 plus,IOS,['7.0.47'],+91 9955160546
+3,1,1,1,2024-03-15 20:13:17.407750,single feature journey,3,Moto Z series,Android,['7.0.60'],+91 7618287363
+5,2,2,1,2024-03-15 20:18:13.133414,single feature journey,6,Motorola Moto series,Android,['7.0.47'],+91 7435684677
+19,10,7,5,2024-03-15 20:26:34.575572,long exploration journey,28,Moto G series,Android,['7.0.25'],+91 9168103195
+17,14,6,5,2024-03-15 20:27:10.919705,long exploration journey,25,Pixel 7,Android,['7.0.47'],+91 8879190641
+5,4,4,5,2024-03-15 20:31:02.989010,news consumption journey,6,HTC One series,Android,['6.0.11'],+91 9140892125
+4,1,1,2,2024-03-15 20:32:18.061052,single feature journey,5,Pixel 3a XL,Android,['7.0.25'],+91 7320368069
+3,2,1,1,2024-03-15 20:33:31.366184,single feature journey,8,Galaxy Note8,Android,['7.0.25'],+91 9332715523
+8,4,2,2,2024-03-15 20:45:47.103554,shopping journey,10,Mi series,Android,['7.0.60'],+91 7822558191
+5,2,2,2,2024-03-15 20:48:39.678598,single feature journey,7,iPhone XS Max,IOS,['7.0.60'],+91 8493779408
+5,2,1,2,2024-03-15 20:50:09.681172,single feature journey,8,Nova series,Android,['7.0.60'],+91 7960799864
+4,2,2,1,2024-03-15 20:52:21.180556,single feature journey,7,Galaxy Note10,Android,['7.0.60'],+91 9078910286
+5,2,2,1,2024-03-15 20:53:12.281364,single feature journey,4,iPhone 6,IOS,['7.0.60'],+91 8818086311
+12,5,2,9,2024-03-15 20:58:05.110785,entertainment journey,11,LG V series ,Android,['7.0.60'],+91 9583526086
+4,2,5,2,2024-03-15 21:01:49.941609,news consumption journey,7,iPhone XS Max,IOS,['5.0.28'],+91 7837988435
+15,6,4,5,2024-03-15 21:11:41.801309,entertainment journey,20,Galaxy S7,Android,['7.0.25'],+91 8261558172
+4,2,2,2,2024-03-15 21:31:50.637315,single feature journey,3,OnePlus 9/9 Pro,Android,['7.0.47'],+91 9159362730
+15,15,10,9,2024-03-15 21:39:15.333663,long exploration journey,25,Pixel 3a XL,Android,['6.0.11'],+91 9913914037
+8,4,5,2,2024-03-15 21:53:32.281449,mixed usage,10,Galaxy S21,Android,['7.0.25'],+91 9183713077
+4,1,2,2,2024-03-15 22:08:04.827422,single feature journey,9,OnePlus 7/7 Pro/7T/7T Pro,Android,['6.0.04'],+91 7540736827
+5,2,1,2,2024-03-15 22:13:22.109359,simple recharge journey,2,LG Q series,Android,['7.0.03'],+91 7682750422
+10,10,3,7,2024-03-15 22:20:47.831697,entertainment journey,16,Pixel 6,Android,['7.0.01'],+91 7163403797
+8,4,4,5,2024-03-15 22:25:01.285901,mixed usage,15,OnePlus 11,Android,['7.0.47'],+91 7843813921
+5,5,2,4,2024-03-15 22:42:09.564715,mixed usage,5,Galaxy S7,Android,['7.0.60'],+91 7093853482
+19,11,5,8,2024-03-15 22:45:26.968026,long exploration journey,25,Nokia 6,Android,['6.0.48'],+91 7317661426
+19,10,7,5,2024-03-15 22:54:00.929187,long exploration journey,29,OnePlus 5/5T,Android,['7.0.57'],+91 7667956932
+5,2,1,1,2024-03-15 23:01:15.874624,single feature journey,2,Pixel 2 XL,Android,['6.0.48'],+91 7263848218
+7,5,3,3,2024-03-15 23:16:37.823677,mixed usage,19,Lenovo K series,Android,['7.0.01'],+91 7717884808
+4,3,5,4,2024-03-15 23:21:55.624947,news consumption journey,6,OnePlus 3/3T,Android,['7.0.47'],+91 8155133244
